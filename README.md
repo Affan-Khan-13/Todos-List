@@ -1,1 +1,1 @@
-This is A todos app project.
+This is A todos list project.
